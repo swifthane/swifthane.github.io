@@ -1,0 +1,25 @@
+name: "Swifthane Podcast"
+title: "Swifthane Podcast"
+description: Swifthane Podcast
+url: http://swifthane.github.io
+
+permalink: /:year/:title
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  parse_block_html: false
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+navigation:
+  - title: iTunes Podcast
+    url: https://itunes.apple.com/tr/podcast/id1372006454
+  - title: Soundcloud
+    url: https://soundcloud.com/user-654571571

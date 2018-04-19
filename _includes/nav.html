@@ -1,0 +1,12 @@
+<nav>
+  <a href="/" class="title">SwiftHane</a>
+  {% for item in site.navigation %}
+      {% assign class = nil %}
+      {% if page.url contains item.url %}
+          {% assign class = 'active' %}
+      {% endif %}
+      <a href="{{ item.url }}" class="right {{ class }}">
+          {{ item.title }}
+      </a>
+  {% endfor %}
+</nav>

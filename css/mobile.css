@@ -1,0 +1,177 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+
+::selection {
+  background-color: #2B2B2B;
+  color: #eee;
+}
+
+h1, h2, h3, h4 {
+  color: #FF7527;
+  font-weight: 300;
+}
+
+p {
+  font-size: 16px;
+}
+
+.site {
+  padding-top: 20px;
+}
+
+.container {
+  width: 100%;
+  //overflow-x: hidden;
+}
+
+
+.header {
+  width: 100%;
+  margin: 20px 0 35px 0;
+  padding: 0px 10px 0px 10px;
+}
+
+  .header a {
+    font-size: 34px;
+    
+    color: #777;
+    font-weight: 200;
+    transition: color 0.25s ease-in;
+    -webkit-transition: color 0.25s ease-in;
+  }
+
+  .header a:hover {
+    color: #FF7527;
+    text-decoration: none;
+  }
+
+  .header a:hover .orange{
+    color: #777;
+    text-decoration: none;
+  }
+
+  .header .subtitle {
+    font-size: 14px;
+  }
+
+  .menu {
+    //padding: 0;
+    padding-top: 30px;
+    //margin: 5px 0;
+    font-weight: normal;
+    float: none;
+  }
+  .menu li {
+    display: inline;
+    padding-right: 15px;
+  }
+  .menu li a{
+    font-size: 20px;
+  }
+
+  .menu {
+    margin: 0px 0 0 0;
+    padding: 0;
+    padding-top: 0px;
+  }
+  .social li {
+    display: inline;
+    font-size: 20px;
+  }
+
+.hero {
+  //background-color: #2B2B2B;
+  background-size: cover;
+  height: 10px;
+  //box-shadow: inset 0 0 5px rgba(0,0,0,.2);
+}
+
+.orangebox {
+  background-color: #FF7527;
+  //background-image: url('../img/squares.png');
+  //background-repeat: repeat;
+  //background-size: 20px;
+}
+
+.subtitle {
+  color: #AAA;
+}
+
+
+.home {
+  padding: 20px;
+}
+
+  .home .posts {
+
+  }
+
+
+  .home .posts li {
+    list-style-type: none;
+padding: 7px 5px;
+font-size: 18px;
+  }
+
+
+loat: left;
+  }
+
+li {
+  padding: 0;
+  list-style-type: square;
+  font-size: 20px;
+  margin-left: 0;
+  line-height: 160%;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+#projects, #about, #home{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.project {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.project .left {
+  display: none;
+  overflow: hidden;
+  padding-right: 0px;
+}
+
+.project .right {
+  padding-left: 0px;
+}
+
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+
+.orange {
+  color: #FF7527
+}
+
