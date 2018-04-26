@@ -5,7 +5,7 @@
       {% if page.url contains item.url %}
           {% assign class = 'active' %}
       {% endif %}
-      <a href="{{ item.url }}" class="right {{ class }}">
+      <a target="_blank" href="{{ item.url }}" class="right {{ class }}">
           {{ item.title }}
       </a>
   {% endfor %}
