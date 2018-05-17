@@ -11,8 +11,9 @@ __swifthane__, swift hakkında çeşitli konuların, çeşitli konuklarla değer
 Son çıkan podcast bölümleri burada listelenir.
 
 <ul class="posts">
+	<li>#3 - Seyfeddin ile Swift üzerine         <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://soundcloud.com/swifthane/seyfeddin-ile-swift-uzerine">SoundCloud</a> <span class="when hidden-xs">8 Mayıs 2018</span></li>
 	<li>#2 - Journey         <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://soundcloud.com/swifthane/journey">SoundCloud</a> <span class="when hidden-xs">24 Nisan 2018</span></li>
-	<li>#1 - Hello World         <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://soundcloud.com/swifthane/hello-world">SoundCloud</a> <span class="when hidden-xs">16 Nisan 2018</span></li>
+	<li>#1 - Hello World         <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://soundcloud.com/swifthane/hello-world">SoundCloud</a> <span class="when hidden-xs">12 Nisan 2018</span></li>
 </ul>
 
 <hr />
