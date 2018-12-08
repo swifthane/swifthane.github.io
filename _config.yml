@@ -21,5 +21,5 @@ plugins:
 navigation:
   - title: iTunes Podcast
     url: https://itunes.apple.com/tr/podcast/id1372006454
-  - title: Soundcloud
-    url: https://soundcloud.com/swifthane
+  - title: Spotify
+    url: https://open.spotify.com/show/6ybOg9JrqbLBUDokL0R5eY

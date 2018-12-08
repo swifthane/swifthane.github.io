@@ -11,9 +11,14 @@ __swifthane__, swift hakkında çeşitli konuların, çeşitli konuklarla değer
 Son çıkan podcast bölümleri burada listelenir.
 
 <ul class="posts">
-	<li>#3 - Seyfeddin ile Swift üzerine         <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://soundcloud.com/swifthane/seyfeddin-ile-swift-uzerine">SoundCloud</a> <span class="when hidden-xs">8 Mayıs 2018</span></li>
-	<li>#2 - Journey         <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://soundcloud.com/swifthane/journey">SoundCloud</a> <span class="when hidden-xs">24 Nisan 2018</span></li>
-	<li>#1 - Hello World         <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://soundcloud.com/swifthane/hello-world">SoundCloud</a> <span class="when hidden-xs">12 Nisan 2018</span></li>
+	<li>#8 - ilterle goygoy driven podcast, yurtdışı, bilgi paylaşımı, architecture, refactoring <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/2pysYj2wC4ZDhA10NFR8nq">Spotify</a> <span class="when hidden-xs">24 Nisan 2018</span></li>
+	<li>#7 - candost ile server side swift üzerine <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/7hXJBQPLn4U61zhXDnH4TW">Spotify</a> <span class="when hidden-xs">12 Nisan 2018</span></li>
+	<li>#6 - Bir Başlangıç Hikayesi <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/7LsGmlny6cLXaT4Lvkegi5">Spotify</a> <span class="when hidden-xs">8 Mayıs 2018</span></li>
+	<li>#5 - Yurt dışında çalışmak ve A/B testing <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/0BtMgGepEjNKbPK1HZJwvf">Spotify</a> <span class="when hidden-xs">24 Nisan 2018</span></li>
+	<li>#4 - Etkinlik Özetleri Ve Türkiyede Yazılımcı Olmak <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/49epE48yXcCkGqTLOjb33O">Spotify</a> <span class="when hidden-xs">12 Nisan 2018</span></li>
+	<li>#3 - Seyfeddin ile Swift üzerine <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/250gu6x24dZRzsK0sNhrkC">Spotify</a> <span class="when hidden-xs">8 Mayıs 2018</span></li>
+	<li>#2 - Journey <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/0vVZPwmIBdVnxveqN56Tik">Spotify</a> <span class="when hidden-xs">24 Nisan 2018</span></li>
+	<li>#1 - Hello World <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/1H3UB6mTz7NWlSnsxReD06">Spotify</a> <span class="when hidden-xs">12 Nisan 2018</span></li>
 </ul>
 
 <hr />
