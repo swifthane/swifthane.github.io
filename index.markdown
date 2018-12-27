@@ -12,6 +12,11 @@ Son çıkan podcast bölümleri burada listelenir.
 
 <ul class="posts">
 	<li>
+	    #9 - göksel ile test yazmak ve kod review üzerine <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/6VFLVxnuISApJRGlZgZavb">Spotify</a> 
+	    <span class="when hidden-xs">25 Aralık 2018</span>
+	    <hr> 
+	</li>
+	<li>
 	    #8 - ilterle goygoy driven podcast, yurtdışı, bilgi paylaşımı, architecture, refactoring <a target="_blank" href="https://itunes.apple.com/tr/podcast/id1372006454">iTunes</a> - <a target="_blank" href="https://open.spotify.com/episode/2pysYj2wC4ZDhA10NFR8nq">Spotify</a> 
 	    <span class="when hidden-xs">7 Aralık 2018</span>
 	    <hr> 
